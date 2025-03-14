@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodHub", "FoodHub\FoodHub.csproj", "{E53C67A7-2548-4AA6-892E-FE4BF5AB35E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E53C67A7-2548-4AA6-892E-FE4BF5AB35E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53C67A7-2548-4AA6-892E-FE4BF5AB35E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53C67A7-2548-4AA6-892E-FE4BF5AB35E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53C67A7-2548-4AA6-892E-FE4BF5AB35E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1712E026-7C19-40FF-BFEC-E5E9659B6D9D}
+	EndGlobalSection
+EndGlobal
